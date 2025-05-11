@@ -86,7 +86,7 @@ c+k 超链接文本
 
 ## 九,插入图片
 
-<img src="../../../Downloads/6525a8d5e792fc285286c97c52545a12.jpeg" style="zoom:50%;" align="left"/>
+<img src="https://typora-cloud111.oss-cn-beijing.aliyuncs.com/6525a8d5e792fc285286c97c52545a12.jpeg" style="zoom:50%;" align="left"/>
 
 ## 十,表格
 
