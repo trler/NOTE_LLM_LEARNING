@@ -1,0 +1,27 @@
+/* 表格整体 */
+table {
+    width: 95% !important; /* 避免超宽，留边距 */
+    margin: 15px auto; /* 居中对齐 */
+    border-collapse: collapse;
+    font-size: 10pt; /* 适配阅读 */
+}
+/* 标题行 */
+th {
+    background: #f8f9fa; /* 浅灰背景区分 */
+    padding: 8px 12px; /* 留白 */
+    vertical-align: middle; /* 垂直居中 */
+    border: 1px solid #dee2e6; /* 浅灰边框 */
+    font-weight: bold;
+}
+/* 内容行 */
+td {
+    padding: 6px 10px; /* 内容边距 */
+    vertical-align: top; /* 长内容顶部对齐 */
+    border: 1px solid #dee2e6;
+    white-space: normal; /* 允许自动换行 */
+}
+/* 段落行距优化 */
+td p {
+    margin: 0; /* 清除段落间距 */
+    line-height: 1.4; /* 舒适行距 */
+}
